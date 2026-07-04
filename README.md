@@ -1,5 +1,13 @@
 # Multi-agent Artificial Intelligence Framework for Drug Repurposing
 
+
+## _Every section should answer these questions:_
+- What do we already know?
+- How do we know it?
+- What are the limitations?
+- What remains unanswered?
+- How does this motivate my framework?
+  
 ---
 
 ## Table of Contents
