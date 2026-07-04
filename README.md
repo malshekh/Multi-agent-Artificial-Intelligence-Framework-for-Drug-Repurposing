@@ -46,7 +46,7 @@
 > > 
 > > Transciptional condensates
 > >
-> LLPS in Aging
+> 2.3 LLPS in Aging
 > > Cellular senescence
 > > 
 > > Epigenetic regulation
@@ -55,13 +55,32 @@
 > > 
 > > Inflammaging
 > >
-> LLPS in Neurodegeneration
-> > Tau condensates
+> 2.4 LLPS in Neurodegeneration
+> > Tau condensates and aggregation
+> > 
 > > Tau aggregation
+> > 
 > > Alzheimer's disease
-> > TDP-43
-> > FUS
-> > Protein aggregation
+> > 
+> > TDP-43 Protein
+> > 
+> > Fused in Sarcoma (FUS) Protein
+> > 
+> > Protein aggregation 
+> >
+> 2.5 LLPS in Cancer
+> > BRD4
+> >
+> > MYC
+> >
+> > MED1
+> >
+> > Super-enhancers
+> >
+> > Transcriptional condensates
+> >
+> > DNA repair condensates
+> >
 - **Chapter 3** : Multi-Agent AI Framework
 - **Chapter 4** : Case Study I *Aging*
 - **Chapter 5** : Case Study II *Neurodegenerative Disease: Alzheimer's Disease 
