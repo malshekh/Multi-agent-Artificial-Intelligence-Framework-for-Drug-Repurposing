@@ -8,6 +8,7 @@ I followed LangChain's course titled ['Foundation: Introduction to LangChain - P
 ---
 ## Table of Contents
 - **Agent 1**: The Literature Mining Agent
+> Initialising and invoking a model
 - **Agent 2**: The Knowledge Extraction Agent
 - **Agent 3**: The Knowledge Graph Construction Agent
 - **Agent 4**: The Mechanism Reasoning Agent
