@@ -91,7 +91,7 @@
 > >
 - **Chapter 3** : Multi-Agent AI Framework
 - **Chapter 4** : Case Study I *Aging*
-- **Chapter 5** : Case Study II *Neurodegenerative Disease: Alzheimer's Disease 
+- **Chapter 5** : Case Study II *Neurodegenerative Disease: Alzheimer's Disease* 
 - **Chapter 6** : Case Study III *Triple-Negative Breast Cancer TNBC*
 - **Chapter 7** : Comparative Analysis
 - **Chapter 8** : Discussion
