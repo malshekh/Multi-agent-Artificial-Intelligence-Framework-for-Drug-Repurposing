@@ -23,3 +23,17 @@ To do:
 [] build and adjust the architechture and include all the tasks and plans
 
 [] include all future plans
+
+"Search Strategy
+
+↓
+
+PubMed Client
+
+↓
+
+Parser
+
+↓
+
+Paper objects" 
