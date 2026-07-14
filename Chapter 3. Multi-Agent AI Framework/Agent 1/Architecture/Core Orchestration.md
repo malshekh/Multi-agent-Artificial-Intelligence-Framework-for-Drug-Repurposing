@@ -1,4 +1,4 @@
-# Core Orchestration i.e 'The Engine Room' 
+# Core Orchestration aka 'The Engine Room' 
 ## Everything here is shared by every agent, every task, every run.
 
 1. **The Coordinator** : Owns the whole run, it is the center controller of the multi-agent platform.
