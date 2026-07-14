@@ -1,4 +1,4 @@
-#Literature Mining Agent Architecture
+# Literature Mining Agent Architecture
 ------
 ```mermaid
 flowchart TB
