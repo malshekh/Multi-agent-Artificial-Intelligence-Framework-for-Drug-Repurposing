@@ -1,1 +1,26 @@
+# Manual installs for checking: uv
 
+# Required  
+OPENAI_API_KEY= 'API key here' 
+OPENAI_MODEL= gpt-5
+OPENAI_REASONING_MODEL= gpt-5
+OPENAI_EXTRACTION_MODEL= gpt-5-mini
+
+TAVILY_API_KEY='your_tavily_api_key_here'
+
+# Optional
+ANTHROPIC_API_KEY='your_anthropic_api_key_here'
+GOOGLE_API_KEY='your_google_api_key_here'
+
+# Optional for evaluation and tracing
+LANGSMITH_API_KEY='your_langsmith_api_key_here'
+
+# Others
+PUBMED_EMAIL= 
+PUBMED_API_KEY= 
+
+OPENALEX_EMAIL=
+
+CHEMBL_API_KEY= 
+
+DRUGBANK_API_KEY= 
