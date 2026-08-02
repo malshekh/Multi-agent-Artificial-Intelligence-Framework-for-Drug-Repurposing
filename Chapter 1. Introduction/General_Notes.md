@@ -38,3 +38,37 @@ It involves several steps to process and analysze language:
 
 ### Stage 2. Strategic and Operational Considerations
 #### The first strategy is to be a best product player i.e., having the best technology possible and providing a product that incorporates all AI and all the associated features that will make it a useful products or service. The last strategy is network externalities, the focus is building the largest user base possible in a way that results in users getting more benefits as the size of the user base increases. Keep in mind that AI still struggles with deeper contextual understanding that requires real-world knowledge and cultural nuance, it also has difficulty with temporal reasoning. 
+
+
+Stage I 
+
+To identify a behavior that an AI system could enact, first determine a broad taxonomy with what is possible. Next, come up with examples. To come up with examples, consider the following questions:
+● What can humans do? (e.g., Write a novel.)
+● What are some similar AI examples? (e.g., AI can generate text through GPT-3)
+
+Stage II 
+
+Now that you have a behavior, you need to define a business process that incorporates this behavior. Defining a business process includes 90% of your value.
+To define a business process, consider the following question:
+
+● What is a business process that can employ AI technologies?
+
+For example, in healthcare, AI technologies have the ability to discriminate sickness, recommend treatment, and understand diagnostics. These abilities can be applied to a business process that tracks the behaviors of users and tells them if they are taking the correct drugs.
+
+In this stage, you begin to develop the AI approach. In developing an AI approach, you need:
+1.    A set of data
+2.    An architecture
+3.    An objective
+
+Stage III 
+
+These technologies combine to create an architecture to accomplish the AI’s objective of implementation. 
+
+However, for this implementation to occur, the AI must undergo training. There are three types of AI training:
+1.    Supervised learning
+2.    Unsupervised learning
+3.    Reinforcement learning
+
+Stage IV 
+
+The final stage is tinkering. Tinkering comprises 90% of your time. This is where most AI engineers do their work. Tinkering denotes the day-to-day actions of working with AI technologies. Stage 4 completes the development cycle.
